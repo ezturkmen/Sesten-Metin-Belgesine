@@ -1,0 +1,7 @@
+{
+  "name": "VoiceTranscribe Pro",
+  "description": "A high-performance, aesthetically pleasing audio transcription application powered by Gemini AI. Upload your voice recordings and get instant, accurate text transcriptions with advanced features like summarization and translation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
